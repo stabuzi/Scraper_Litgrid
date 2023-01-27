@@ -1,7 +1,7 @@
 # Scraper_Litgrid
 Script collects information from the transmission system's operating web page about the latest released technical specifications
 
-###How to use it
+### How to use it
 
 navigate to notebooks/scraper.ipyb and run the "get_pages_info" function. The results are saved in "litgrid.csv".
 
